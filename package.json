@@ -1,0 +1,14 @@
+{
+  "name": "phaser-typescript-parcel-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "scarejar",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.10.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.9.4",
+    "typescript": "^2.9.2"
+  }
+}
